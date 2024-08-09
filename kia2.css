@@ -135,11 +135,11 @@
 	 .a21{
 		text-align: left;
 		float: left;
-		margin-left: 300px;
+		margin-left: auto;
 	 }
 	 .a22{
 		text-align: right;
-		margin-right: 350px;
+		margin-right: auto;
 	 }
 	 .a23{
 		text-align: left;
