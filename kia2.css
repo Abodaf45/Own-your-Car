@@ -129,8 +129,8 @@
 	 }
 	 .i500{
 		width: 20px;
-		height: 20px;
-		margin-left: 5px;
+		height: auto;
+		margin-left: auto;
 	 }
 	 .a21{
 		text-align: left;
