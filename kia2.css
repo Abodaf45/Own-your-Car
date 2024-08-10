@@ -130,16 +130,16 @@
 	 .i500{
 		width: 0px;
 		height: 10px;
-		margin-left: 5px;
+		margin-left: auto;
 	 }
 	 .a21{
 		text-align: left;
 		float: left;
-		margin-left: auto;
+		margin-left: 5px;
 	 }
 	 .a22{
 		text-align: right;
-		margin-right: auto;
+		margin-right: 5px;
 	 }
 	 .a23{
 		text-align: left;
