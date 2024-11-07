@@ -192,11 +192,11 @@ body {
 
 
     .table-bordered th, .table-bordered td {
-      border: 3px solid #fff !important;
+      border: 3px solid black !important;
     }
 
     .table th, .table td {
-      padding: 12px;
+      
       text-align: center;
     }
 
