@@ -188,8 +188,28 @@ body {
   font-family: Arial, sans-serif;
 }
 
- .table-bordered th, .table-bordered td {
-      border: 3px solid #000 !important; /* تحديد الحدود السميكة */
+ .table-container {
+      margin-top: 30px;
+      background: rgba(0, 0, 0, 0.6); /* خلفية شبه شفافة لسهولة قراءة النص */
+      padding: 20px;
+      border-radius: 10px;
     }
 
+    .navbar {
+      z-index: 1000;
+    }
+
+    .table-bordered th, .table-bordered td {
+      border: 3px solid #fff !important;
+    }
+
+    .table th, .table td {
+      padding: 12px;
+      text-align: center;
+    }
+
+    .table-container h3 {
+      color: #fff;
+      text-align: center;
+    }
    
