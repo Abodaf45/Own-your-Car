@@ -164,7 +164,7 @@
 }
 .whatsapp-btn {
       position: fixed;
-      
+      right: 20px;
       background-color: #25D366;
       color: white;
       padding: 10px 20px;
