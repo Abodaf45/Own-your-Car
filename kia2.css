@@ -100,8 +100,7 @@
 		align-content: center;
 		align-items: center;
 		flex-wrap: nowrap;
-		
-	
+		color:black;
 		
 		
 	 }
@@ -136,10 +135,12 @@
 		text-align: left;
 		float: left;
 		margin-left: 5px;
+		 color:black;
 	 }
 	 .a22{
 		text-align: right;
 		margin-right: 5px;
+		 color:black;
 	 }
 	 .a23{
 		text-align: left;
@@ -152,6 +153,7 @@
 	 }
 	 .a25{
 		text-align: center;
+		 color:black;
 	 }
 	 .tr1{
 		text-align: center;
