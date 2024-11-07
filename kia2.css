@@ -179,3 +179,17 @@ body {
   margin: 0;
   font-family: Arial, sans-serif;
 }
+
+ .table-bordered th, .table-bordered td {
+      border: 3px solid #000 !important; /* تحديد الحدود السميكة */
+    }
+
+    .table th, .table td {
+      padding: 12px; /* إضافة بعض المسافة داخل الخلايا */
+      text-align: center; /* محاذاة النص في الوسط */
+    }
+
+    .table-container h3 {
+      color: #fff; /* جعل عنوان الجدول بلون أبيض ليتناسب مع الخلفية */
+      text-align: center;
+    }
