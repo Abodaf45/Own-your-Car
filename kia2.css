@@ -101,7 +101,7 @@
 		align-items: center;
 		flex-wrap: nowrap;
 		color:black;
-		
+		font-size:25px;
 		
 	 }
 	 .d800{
@@ -136,11 +136,13 @@
 		float: left;
 		margin-left: 5px;
 		 color:black;
+		 font-size:25px;
 	 }
 	 .a22{
 		text-align: right;
 		margin-right: 5px;
 		 color:black;
+		 font-size:25px;
 	 }
 	 .a23{
 		text-align: left;
@@ -154,6 +156,7 @@
 	 .a25{
 		text-align: center;
 		 color:black;
+		 font-size:25px;
 	 }
 	 .tr1{
 		text-align: center;
@@ -161,6 +164,7 @@
 	.a200{
 		text-align: right;
 		color:black;
+		font-size:25px;
 	}
 .p123{
 	text-align:center;
