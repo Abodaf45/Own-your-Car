@@ -202,5 +202,10 @@ body {
       text-align: center;
     }
 
-    
+ #icon-container {
+         
+  justify-content: center; /* لتوسيط الأيقونة أفقيًا */
+  align-items: center;     /* لتوسيط الأيقونة رأسيًا */
+       
+}   
    
