@@ -176,7 +176,7 @@
       padding: 10px 20px;
       border-radius: 5px;
       font-size: 24px;
-      margin-left:200px;
+      margin-left:100px;
       justify-content: center; /* لتوسيط الأيقونة أفقيًا */
       align-items: center;
     }
@@ -202,11 +202,4 @@ body {
       text-align: center;
     }
 
- .icon-container {
-  width: 100px;           
-  height: 100px;
-  justify-content: center; 
-  align-items: center;    
-       
-}   
-   
+ 
