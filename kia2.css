@@ -210,15 +210,30 @@ body {
             border-radius: 10px;
             overflow: hidden;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            margin: 20px 0;
             text-align: center;
+            margin: 0 10px;
         }
+        
+        .carousel-inner {
+            display: flex;
+            justify-content: center;
+            overflow: hidden;
+        }
+        
+        .carousel-item {
+            flex: 0 0 auto; /* تجعل كل شريحة تأخذ عرض ثابت */
+            width: 100%; /* عرض الشريحة 100% */
+            display: flex;
+            justify-content: center;
+        }
+
         .car-card img {
             width: 100%;
             height: 300px; /* تأكد من تثبيت الارتفاع بحيث لا يتداخل مع الصور الأخرى */
             object-fit: cover; /* الحفاظ على تناسق الصورة داخل الكارد */
             border-bottom: 1px solid #ddd;
         }
+
         .car-card-body {
             padding: 20px;
         }
@@ -257,12 +272,6 @@ body {
         .carousel-control-prev-icon, .carousel-control-next-icon {
             background-color: black; /* لجعل الأيقونات أكثر وضوحًا */
         }
-
-        .carousel-inner {
-            display: flex;
-            justify-content: center;
-        }
-
 
 
 
