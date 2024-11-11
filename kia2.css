@@ -244,7 +244,7 @@ body {
     }
 
 
- .car-info-table {
+  .car-info-table {
             margin-top: -50px;
             margin-bottom: 30px;
             background-color: rgba(0, 0, 0, 0.6);
@@ -255,4 +255,12 @@ body {
             display: flex;
             justify-content: space-between;
             font-size: 18px;
+        }
+
+        .car-info-table div {
+            margin: 0 10px;
+        }
+
+        .car-info-table .label {
+            font-weight: bold;
         }
